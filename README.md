@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @stealthwhizz
+- 👋 Hi, I’m whizzy
 - 👀 I’m interested in UI/UX...
 - 🌱 I’m currently learning C / R ust...
 - 🎮 Hard core Gamer
