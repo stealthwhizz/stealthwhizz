@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java,DevOps**
 
-- 👨‍💻 All of my projects are available at [amoghsunil.vercel.app](amoghsunil.vercel.app)
+- 👨‍💻 All of my projects are available at [amoghsunil.vercel.app](https://amoghsunil.vercel.app)
 
 - 📫 How to reach me **contact.amoghsunil@gmail.com**
 
