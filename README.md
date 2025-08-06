@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Java,DevOps**
 
-- 👨‍💻 All of my projects are available at [amoghsunil.vercel.app](amoghsunil.vercel.app)
+- 👨‍💻 All of my projects are available at [stealthwhizz.vercel.app](stealthwhizz.vercel.app)
 
 - 💬 Ask me about **anime,valorant,Social Media**
 
-- 📫 How to reach me **contact.amoghsunil@gmail.com**
+- 📫 How to reach me **stealthwhiz@gmail.com**
 
-- ⚡ Fun fact **I Am Nub**
+- ⚡ Fun fact **I Am Nub in Gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
