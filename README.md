@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealthwhizz&label=Profile%20views&color=0e75b6&style=flat" alt="stealthwhizz" /> </p>
 
-- 🔭 I’m currently working on **PRisma**
+- 🔭 I’m currently working on **WHIZZ.ai**(https://github.com/stealthwhizz/whizz.ai)
 
 - 🌱 I’m currently learning **Java,DevOps**
 
