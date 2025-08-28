@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java,DevOps**
 
-- 👨‍💻 All of my projects are available at [stealthwhizz.vercel.app](stealthwhizz.vercel.app)
+- 👨‍💻 All of my projects are available at [stealthwhizz.vercel.app](https://stealthwhizz.vercel.app)
 
 - 💬 Ask me about **anime,valorant,Social Media**
 
