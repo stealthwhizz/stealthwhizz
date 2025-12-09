@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**WHIZZ.ai**](https://github.com/stealthwhizz/whizz.ai)
 
-- 🌱 I’m currently learning **Java,DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [stealthwhizz.vercel.app](https://stealthwhizz.vercel.app)
 
