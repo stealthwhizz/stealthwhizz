@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealthwhizz&label=Profile%20views&color=0e75b6&style=flat" alt="stealthwhizz" /> </p>
 
-- 🔭 I’m currently working on [**WHIZZ.ai**](https://github.com/stealthwhizz/whizz.ai)
+- 🔭 I’m currently working on [**WHIZZ.ai**](https://github.com/stealthwhizz/ZeroId)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **AI Security**
 
 - 👨‍💻 All of my projects are available at [stealthwhizz.vercel.app](https://stealthwhizz.vercel.app)
 
-- 💬 Ask me about **anime,valorant,Social Media**
+- 💬 Ask me about **Anime,Valorant,Social Media Marketing, Video Editing**
 
 - 📫 How to reach me **stealthwhiz@gmail.com**
 
-- ⚡ Fun fact **I Am Nub in Gaming**
+- ⚡ Fun fact **I am DexPagma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
