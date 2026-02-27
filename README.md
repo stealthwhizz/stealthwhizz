@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stealthwhizz&label=Profile%20views&color=0e75b6&style=flat" alt="stealthwhizz" /> </p>
 
-- 🔭 I’m currently working on [**WHIZZ.ai**](https://github.com/stealthwhizz/ZeroId)
+- 🔭 I’m currently working on [**ZeroID**](https://github.com/stealthwhizz/ZeroId)
 
 - 🌱 I’m currently learning **AI Security**
 
-- 👨‍💻 All of my projects are available at [stealthwhizz.vercel.app](https://stealthwhizz.vercel.app)
+- 👨‍💻 All of my projects are available at [amoghsunil.me](https://stealthwhizz.vercel.app)
 
 - 💬 Ask me about **Anime,Valorant,Social Media Marketing, Video Editing**
 
