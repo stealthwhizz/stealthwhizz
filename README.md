@@ -1,6 +1,11 @@
 # 💫 About Me:
-FinBot-CTF , OWASP-BLT , OWASP-Nest<br>Django
+I'm currently working on [ZeroID](https://github.com/stealthwhizz/ZeroID), my GitHub project.
 
+Currently learning Django and blockchain.
+
+Actively contributing to [OWASP Foundation](https://owasp.org/), [OWASP-BLT](https://github.com/owasp-blt), and [OWASP-ASI](https://github.com/owasp-asi) as an open source contributor.
+
+I love playing games like Valorant, listening to songs, reading books, and playing cricket.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stealthwhiz) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Stealth_Whiz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/stealthwhiz) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/stealthwhiz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stealthwhiz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@stealthwhizz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stealthwhiz@gmail.com) 
