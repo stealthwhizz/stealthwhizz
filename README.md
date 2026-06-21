@@ -1,29 +1,152 @@
-# 💫 About Me:
-I'm currently working on [ZeroID](https://github.com/stealthwhizz/ZeroID), my GitHub project.
+<!-- Pokemon Trainer Card Header -->
+<div align="center">
 
-Currently learning Django and blockchain.
+<!-- Animated Pokemon GIF Banner -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="80" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="80" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="80" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" width="80" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" width="80" />
 
-Actively contributing to [OWASP Foundation](https://owasp.org/), [OWASP-BLT](https://github.com/owasp-blt), and [OWASP-ASI](https://github.com/owasp-asi) as an open source contributor.
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                     ★  TRAINER CARD  ★                          ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Name  : AMOGH SUNIL                                             ║
+║  ID No.: #stealthwhiz       Region : INDIA                       ║
+║  Badge : OWASP Contributor  Class  : SECURITY & FULL STACK       ║
+║  Rival : Vulnerabilities in Production                           ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-I love playing games like Valorant, listening to songs, reading books, and playing cricket.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=A+wild+Amogh+appeared!;Security+researcher.+Open+source+hacker.;Gotta+patch+%27em+all!;OWASP+%7C+Blockchain+%7C+Full+Stack" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stealthwhiz) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Stealth_Whiz) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/stealthwhiz) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/stealthwhiz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stealthwhiz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@stealthwhizz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stealthwhiz@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stealthwhizz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=stealthwhizz&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stealthwhizz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=stealthwhizz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=stealthwhizz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png" width="20"/> POKÉDEX ENTRY `#stealthwhizz` — AMOGH
+
+> *"A rare species spotted lurking in OWASP repositories and blockchain networks. Known for hunting vulnerabilities at odd hours, building zero-trust identity systems, and rage-quitting Valorant after one last match. Its natural habitat: dark-themed terminals with too many open tabs."*
+
+<img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="100" />
+
+- **Location:** India
+- **Trainer Class:** Security & Full Stack Developer
+- **Starter Pokémon:** Python 🐍
+- **Battle Style:** Find the vuln, then fix it
+- **Badges:** `OWASP Contributor` · `Open Source`
+
+---
+
+## ⚔️ MOVE SET — TECH STACK
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  AMOGH used...                                                  │
+├──────────────────────┬──────────────────────────────────────────┤
+│  🔥 FIRE MOVES       │  Python · C · C++ · Java · TypeScript   │
+│  💧 WATER MOVES      │  Next.js · Node.js · FastAPI · Django   │
+│  ⚡ ELECTRIC MOVES   │  JavaScript · Dart · HTML5 · CSS3       │
+│  🌿 GRASS MOVES      │  PyTorch · Pandas · Matplotlib          │
+│  👻 GHOST MOVES      │  Docker · PostgreSQL · Redis · Firebase  │
+│  🔮 PSYCHIC MOVES    │  Blockchain · Web3 · Smart Contracts    │
+│  🏔️ ROCK MOVES       │  GCP · Vercel · Netlify · GitHub Actions│
+└──────────────────────┴──────────────────────────────────────────┘
+```
+
+---
+
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="20"/> POKÉMON PARTY — FEATURED PROJECTS
+
+| Pokémon | Project | Type | Level |
+|---------|---------|------|-------|
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="40" /> | [**IronMind**](https://github.com/stealthwhizz/IronMind) — Adversarial prompt injection defense for LLM-powered security tools | `Python` · `Security` · `AI` | ██████████ 100 |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="40" /> | [**smaran.ai**](https://github.com/stealthwhizz/smaran.ai) — AI-powered agent built with Lyzr Architect | `TypeScript` · `AI` · `Agents` | █████████░ 90 |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" width="40" /> | [**EscrowLance**](https://github.com/stealthwhizz/EscrowLance) — Blockchain freelance escrow with smart contracts & IPFS milestone proofs | `Solidity` · `JavaScript` · `Web3` | ████████░░ 80 |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="40" /> | [**OWASP-BLT**](https://github.com/owasp-blt) — Bug logging & tracking platform contributions | `Python` · `Django` · `Open Source` | ███████░░░ 70 |
+
+---
+
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png" width="20"/> TRAINER STATS
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="80" />
+
+![](https://github-readme-stats.vercel.app/api?username=stealthwhizz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=stealthwhizz&theme=gotham&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stealthwhizz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png" width="20"/> BAG — CURRENTLY GRINDING
+
+```
+> Opening BAG...
+  ┌─────────────────────────────────────────────┐
+  │  📜 KEY ITEMS                               │
+  │     ├── Django (learning the deep end)      │
+  │     ├── Blockchain & Smart Contracts        │
+  │     └── OWASP Open Source Contributions     │
+  │                                             │
+  │  🎮 FOR FUN                                 │
+  │     ├── Valorant (one more game, always)    │
+  │     ├── Reading books                       │
+  │     ├── Cricket                             │
+  │     └── Listening to songs                 │
+  └─────────────────────────────────────────────┘
+```
+
+---
+
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="20"/> VISITED REGIONS — DOMAINS EXPLORED
+
+```
+KANTO     ████████████  Security & Open Source (OWASP)
+JOHTO     ███████████░  Blockchain & Web3 Development
+HOENN     ██████████░░  Full Stack (Next.js, Django, FastAPI)
+SINNOH    ████████░░░░  Machine Learning & Data Science
+UNOVA     ███████░░░░░  DevOps & Cloud (Docker, GCP)
+KALOS     ██████░░░░░░  Systems Programming (C, C++)
+```
+
+---
+
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="20"/> CONNECT — SEND A CHALLENGE
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-stealthwhizz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stealthwhizz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-stealthwhiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stealthwhiz)
+[![Reddit](https://img.shields.io/badge/Reddit-Stealth__Whiz-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Stealth_Whiz)
+[![X](https://img.shields.io/badge/X-stealthwhiz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stealthwhiz)
+[![YouTube](https://img.shields.io/badge/YouTube-stealthwhizz-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@stealthwhizz)
+[![Email](https://img.shields.io/badge/Email-stealthwhiz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stealthwhiz@gmail.com)
+
+*"..."* — Amogh, probably
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="60" />
+
+```
+ ╔═══════════════════════════════╗
+ ║  Would you like to battle?    ║
+ ╠═══════════════════════════════╣
+ ║  ▶  YES                       ║
+ ║     NO                        ║
+ ╚═══════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=stealthwhizz&style=pixel&color=red&label=TRAINERS+VISITED" />
+
+  *Made with ❤️ and too many late nights*
+</div>
